@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+#paginainicio
+{background:#30C}
+#titulo
+{background:#09F; color:#F00; text-align:justify }
+#nombre
+{background:#000; color:#F00}
+#introduccion
+{background:#003; color:#C00; size:7 ; text-align:justify; width:98%; margin:1%}
